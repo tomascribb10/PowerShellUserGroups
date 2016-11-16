@@ -10,6 +10,9 @@ Anyone can contribute. External sites can link to this page without seeking perm
 
 We encourage people to link, rather than copy, to keep the data fresh and accurate.
 
+# Guidance and Governance
+We're still working on the standards surrounding what information to offer and how governance will be administered.  We want to keep this conversation open.  If you want to raise a suggestion, concern, or ways to improve what we're doing, feel free to raise an issue on this repo and we can all talk about it together!
+
 # Sample Layout
 
 |Group Name|Owner|Location|WebsiteURL|Twitter|Email|
