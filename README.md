@@ -1,10 +1,16 @@
 # PowerShellUserGroups
-A list of PowerShell User Groups Collected and Centralized
+A community-maintained, single-source list of PowerShell user groups worldwide.
 
 # Purpose
-This list will be used as a centralized repository of user groups that can be updated by the community as opposed to relying on a single website, or multiple sites, for curation.  Anyone can contribute.  External sites can link to this page freely.  Everyone wins.
+This list is a central repository of PowerShell user groups that can be updated by the community and used as a source file for other lists and websites. 
 
-# Example Layout
+Because it is easy to edit, it is likely to be more accurate than other sources. And, because it's a central source, rather than a list that one person assembled, it's likely to be more complete. 
+
+Anyone can contribute. External sites can link to this page without seeking permission. Everyone wins. 
+
+We encourage people to link, rather than copy, to keep the data fresh and accurate.
+
+# Sample Layout
 
 |Group Name|Owner|Location|WebsiteURL|Twitter|Email|
 |----------|-----|--------|----------|-------|-----|
