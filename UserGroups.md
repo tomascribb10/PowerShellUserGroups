@@ -5,4 +5,4 @@
 |MTUG Script Club|Jan Egil Ring/Øyvind Kallstad|Oslo, Norway| http://script-club.mtug.no | N/A | N/A |
 |Cincinnati PowerShell User Group|Jay Ryan / Chris Brucker|Mason, OH|http://cincypowershell.org|[@CincyPowerShell](https://twitter.com/cincypowershell)|[info@cincypowershell.org](mailto:info@cincypowershell.org)
 |Romania PowerShell User Group|Sorin Pasa|Bucharest,Romania|https://www.meetup.com/Romanian-PowerShell-User-Group/|@ROMANIAPUG|romaniapug@yahoo.com|
-
+|Atlanta PowerShell User Group|Mark Schill/Stephen Owen|Atlanta, Georgia|http://www.meetup.com/Atlanta-PowerShell-Users-Group/ |@ATLPUG|ATLPUG@Foxdeploy.com|
