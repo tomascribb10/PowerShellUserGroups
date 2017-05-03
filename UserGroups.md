@@ -22,3 +22,4 @@
 |Omaha PowerShell User Group|Boe Prox / Josh Duffney|Omaha, NE, USA|https://twitter.com/OmahaPSUG|[@OmahaPSUG](https://twitter.com/OmahaPSUG)|[omahapsug@gmail.com](mailto:omahapsug@gmail.com)|
 |GRPosh|[Thomas Malkewitz](https://dotps1.github.io)|Grand Rapids, Michigan, USA|https://grposh.github.io|[@grposh](https://twitter.com/grposh)|[grposh@outlook.com](mailto:grposh@outlook.com)|
 |MidMo|Josh Rickard|"Columbia, Missouri, USA"|https://www.eventbrite.com/e/midmo-powershell-user-group-tickets-22516367060#|@MidMoPowerShell|midmo-powershell@googlegroups.com|
+|Scottish PowerShell User group|Paul Broadwith|Scotland|https://www.meetup.com/Scottish-PowerShell-User-Group/|@ScotPSUG|https://www.meetup.com/Scottish-PowerShell-User-Group/
