@@ -20,3 +20,4 @@
 |Nashville|Mick Pletcher|"Nashville, Tennessee, USA"|https://www.meetup.com/Nashville-PowerShell-User-Group/|@nashvillePUG||
 |NYC PowerShell User Group|Doug Finke & Sunny Chakraborty|New York, New York|https://www.meetup.com/NycPowershellMeetup/|@dfinke & "Sunny Chakraborty" <sunnyc7@gmail.com>|finked@hotmail.com  sunnyc7@gmail.com|
 |Omaha PowerShell User Group|Boe Prox / Josh Duffney|Omaha, NE, USA|https://twitter.com/OmahaPSUG|[@OmahaPSUG](https://twitter.com/OmahaPSUG)|[omahapsug@gmail.com](mailto:omahapsug@gmail.com)|
+|GRPosh|[Thomas Malkewitz](https://dotps1.github.io)|Grand Rapids, Michigan, USA|https://grposh.github.io|[@grposh](https://twitter.com/grposh)|[grposh@outlook.com](mailto:grposh@outlook.com)|
