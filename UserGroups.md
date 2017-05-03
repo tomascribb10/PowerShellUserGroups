@@ -18,3 +18,4 @@
 |Kansas City PowerShell User Group|Robin Haberstroh|Lenexa, KS, USA|http://kcpsug.com|@KCPSUG|kcpsug@outlook.com|
 |Dutch PowerShell User Group|Richard Diphoorn/Jeff Wouters/Jaap Brasser|Netherlands|https://www.dupsug.com|@DUPSUG|info@dupsug.com
 |Nashville|Mick Pletcher|"Nashville, Tennessee, USA"|https://www.meetup.com/Nashville-PowerShell-User-Group/|@nashvillePUG||
+|NYC PowerShell User Group|Doug Finke & Sunny Chakraborty|New York, New York|https://www.meetup.com/NycPowershellMeetup/|@dfinke & "Sunny Chakraborty" <sunnyc7@gmail.com>|finked@hotmail.com  sunnyc7@gmail.com|
