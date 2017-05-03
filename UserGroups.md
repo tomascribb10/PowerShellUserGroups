@@ -14,3 +14,4 @@
 |Virtual|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Romania|Sorin Pasa|"Bucharest, Romania"|https://www.meetup.com/Romanian-PowerShell-User-Group/|@ROMANIAPUG|romaniapug@yahoo.com|
 |St. Louis|Michael Lombardi|"St. Louis, Missouri, USA"|https://www.meetup.com/stlpsug|stl.psug@outlook.com|
+|Kansas City PowerShell User Group|Robin Haberstroh|Lenexa, KS, USA|http://kcpsug.com|@KCPSUG|kcpsug@outlook.com|
