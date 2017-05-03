@@ -17,3 +17,4 @@
 |St. Louis|Michael Lombardi|"St. Louis, Missouri, USA"|https://www.meetup.com/stlpsug|stl.psug@outlook.com|
 |Kansas City PowerShell User Group|Robin Haberstroh|Lenexa, KS, USA|http://kcpsug.com|@KCPSUG|kcpsug@outlook.com|
 |Dutch PowerShell User Group|Richard Diphoorn/Jeff Wouters/Jaap Brasser|Netherlands|https://www.dupsug.com|@DUPSUG|info@dupsug.com
+|Nashville|Mick Pletcher|"Nashville, Tennessee, USA"|https://www.meetup.com/Nashville-PowerShell-User-Group/|@nashvillePUG||
