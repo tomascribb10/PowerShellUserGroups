@@ -19,3 +19,4 @@
 |Dutch PowerShell User Group|Richard Diphoorn/Jeff Wouters/Jaap Brasser|Netherlands|https://www.dupsug.com|@DUPSUG|info@dupsug.com
 |Nashville|Mick Pletcher|"Nashville, Tennessee, USA"|https://www.meetup.com/Nashville-PowerShell-User-Group/|@nashvillePUG||
 |NYC PowerShell User Group|Doug Finke & Sunny Chakraborty|New York, New York|https://www.meetup.com/NycPowershellMeetup/|@dfinke & "Sunny Chakraborty" <sunnyc7@gmail.com>|finked@hotmail.com  sunnyc7@gmail.com|
+|Omaha PowerShell User Group|Boe Prox / Josh Duffney|Omaha, NE, USA|https://twitter.com/OmahaPSUG|[@OmahaPSUG](https://twitter.com/OmahaPSUG)|[omahapsug@gmail.com](mailto:omahapsug@gmail.com)|
